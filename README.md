@@ -1,0 +1,16 @@
+This repository contains source code from books, docs, and tutorials I've followed.
+
+| Name                                                                                  | Source                                                                                                  | Stack                               |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| [Local Library](https://github.com/vimturtle/tmp/tree/main/local-library-django)      | [MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website) | Django                              |
+| [Local Library](https://github.com/vimturtle/tmp/tree/main/local-library-node)        | [MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)                        | NodeJS/Express/MongoDB              |
+| [DevConnector](https://github.com/vimturtle/tmp/tree/main/devconnector)               | [Brad Traversy - MERN Stack Front To Back](https://www.udemy.com/course/mern-stack-front-to-back/)      | Node.js/Express/React/Redux/MongoDB |
+| [Django Blog](https://github.com/vimturtle/tmp/tree/main/django-blog)                 | [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)               | Django                              |
+| [Flask Blog](https://github.com/vimturtle/tmp/tree/main/flask-blog)                   | [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)               | Flask/SQLAlchemy                    |
+| [Flask Mega-Tutorial](https://github.com/vimturtle/tmp/tree/main/flask-mega-tutorial) | [Miguel Grinberg](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)      | Flask                               |
+| [DRF Tutorial](https://github.com/vimturtle/tmp/tree/main/drf-tutorial)               | [Django Rest Framework docs](https://www.django-rest-framework.org/tutorial/1-serialization/)           | Django/DRF                          |
+| [Django Poll App](https://github.com/vimturtle/tmp/tree/main/django-poll)             | [Django docs](https://docs.djangoproject.com/en/2.2/intro/)                                             | Django                              |
+| [Tic-Tac-Toe](https://github.com/vimturtle/tmp/tree/main/react-tic-tac-toe)           | [React docs](https://reactjs.org/tutorial/tutorial.html)                                                | React                               |
+| [TodoApp](https://github.com/vimturtle/tmp/tree/main/django-react-todo)               | [William Vincent](https://wsvincent.com/django-rest-framework-react-tutorial/)                          | Django/DRF/React                    |
+| [CSS In 44 Minutes](https://github.com/vimturtle/tmp/tree/main/css-in-44-minutes)     | [Jeremy Thomas](https://jgthms.com/css-in-44-minutes-ebook/)                                            | HTML5/CSS3/JavaScript               |
+| [Tic-Tac-Toe](https://github.com/vimturtle/tmp/tree/main/js-tic-tac-toe)              | [Web Dev Simplified](https://www.youtube.com/watch?v=Y-GkMjUZsmM)                                       | HTML5/CSS3/JavaScript               |

@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://random_usernmae:random_password@devconnector-2crcx.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "ARandomSecretToekn",
+  "githubClientId": "RandomClientId",
+  "githubSecret": "RandomSecret"
+}
